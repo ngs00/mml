@@ -6,13 +6,13 @@ Crystalline materials are essential components in a wide range of mechanical and
 
 
 ## Dataset Sources
-* **MPS-FE:** Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.
-* **MPS-PR:** Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.
-* **HOIP-GBG:**
-* **HOIP-HBG:**
-* **NLHM-GBG:**
-* **MPL-FE:**
-* **MPL-BGB:**
+* **MPS-FE:** 10.1103/PhysRevLett.120.145301
+* **MPS-PR:** 10.1103/PhysRevLett.120.145301
+* **HOIP-GBG:** 10.1038/sdata.2017.57
+* **HOIP-HBG:** 10.1038/sdata.2017.57
+* **NLHM-GBG:** 10.1002/aenm.201400915
+* **MPL-FE:** 10.1063/1.4812323
+* **MPL-BGB:** 10.1063/1.4812323
   
 
 ## Run
