@@ -5,18 +5,15 @@ Crystalline materials are essential components in a wide range of mechanical and
 * Paper: Gyoung S. Na, Generalized Contrastive Learning Beyond Regular Graph Data for Data-Driven Materials Discovery, xxxx xxxx.
 
 
-## Requirements
-* Python $\geq$ 3.6
-* Pytorch $\geq$ 1.9.0
-* Pytorch Geometric $\geq$ 2.0.3
-* Pymatgen $\geq$ 2022.0.11
-
-
 ## Dataset Sources
-* **HOIP dataset:** Chiho Kim et al., A hybrid organic-inorganic perovskite dataset, Sci. Data, 2017.
-* **Materials Project database:** Anubhav Jain et al., A materials genome approach to accelerating materials innovation. APL Mater., 2013.
-* **MagNet NASA (MNN) dataset:** https://www.kaggle.com/arashnic/soalr-wind
-
+* **MPS-FE:** Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.
+* **MPS-PR:** Xie, T., & Grossman, J. C. (2018). Crystal graph convolutional neural networks for an accurate and interpretable prediction of material properties. Physical review letters, 120(14), 145301.
+* **HOIP-GBG:**
+* **HOIP-HBG:**
+* **NLHM-GBG:**
+* **MPL-FE:**
+* **MPL-BGB:**
+  
 
 ## Run
 Execute `experiment.py` in each task folder. The embedding and prediction results are saved in the `results` folder.
