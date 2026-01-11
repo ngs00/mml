@@ -5,7 +5,7 @@ Crystalline materials are essential components in a wide range of mechanical and
 * Paper: Gyoung S. Na, Generalized Contrastive Learning Beyond Regular Graph Data for Data-Driven Materials Discovery, xxxx xxxx.
 
 
-## Dataset Sources
+## Datasets
 * **MPS-FE:** 10.1103/PhysRevLett.120.145301
 * **MPS-PR:** 10.1103/PhysRevLett.120.145301
 * **HOIP-GBG:** 10.1038/sdata.2017.57
@@ -16,8 +16,4 @@ Crystalline materials are essential components in a wide range of mechanical and
   
 
 ## Run
-Execute `experiment.py` in each task folder. The embedding and prediction results are saved in the `results` folder.
-
-
-## License
-ACM acknowledges that this contribution was authored or co-authored by an employee, contractor or affiliate of a national government. As such, the Government retains a nonexclusive, royalty-free right to publish or reproduce this article, or to allow others to do so, for Government purposes only
+Execute `exec.py` to build MML and downstream prediction models.
